@@ -23,6 +23,10 @@ public class Lucene06ApplicationTests {
             System.out.println(poetry);
         }
     }
+    @Test
+    public void test1(){
+        System.out.println("qwer");
+    }
 
 }
 
